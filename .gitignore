@@ -1,5 +1,1 @@
-doc/*
-target/*
-*.jar
-*.war
-*.ear
+/target/
